@@ -1,0 +1,30 @@
+html{font-size:3.75vw;height:100%;}
+body{margin:0;height:100%;font-family:"微软雅黑";}
+.app *,.app{box-sizing:border-box;}
+.app a{text-decoration: none;}
+/*字体颜色*/
+.c-w{color:#fff;}
+.c-llb{color:#5AC2CF;}
+.c-b{color:#3B81C3;}
+.c-lb{color:#5E8AC7;}
+.c-p{color:#EB6463;}
+.c-n{color:#666464;}
+.c-t{color:#3D3A3A;}
+/*背景*/
+.bg-p{background-color:#EB7E7D;}
+.bg-lb{background-color:#00A1E9;}
+.bg-llb{background-color:#5AC2CF;}
+.bg-y{background-color:#F4B72A;}
+.bg-lg{background-color:#93C55C;}
+.bg-g{background-color:#62BC89;}
+.bg-b{background-color:#3B81C3;}
+.bg-green{background-color: #50b67d;}
+.bg-blue{background-color: #00a0e8;}
+.bg-297{background-color: #2974bb;}
+/*佈局*/
+.row{display: table;width: 100%}
+.col{display: table-cell;vertical-align: middle;}
+/*对齐*/
+.v-t{vertical-align: top}
+.v-b{vertical-align: bottom;}
+

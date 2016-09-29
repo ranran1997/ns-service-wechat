@@ -1,0 +1,8 @@
+.app{padding-bottom:3.5rem;box-sizing:border-box;height:100%;}
+.app.has-header{padding-top:3rem;}
+.app-header{height:3rem;margin-top:-3rem;background:#00A1E9;}
+.app-main{height:100%;overflow:auto;}
+.app-nav{height:3.5rem;width:100%;display:table;background:#F9F9F9;border-top:1px solid #DFDFDE;}
+.app-nav a{display:table-cell;text-align:center;vertical-align: middle;font-size:0.8rem;color:#585A5A;}
+.app-nav a .iconfont{display:block;text-align:center;margin-bottom:0.3rem;font-size:1.1rem;}
+.app-nav a.active{color:#2674BB;}
